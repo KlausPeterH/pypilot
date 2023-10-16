@@ -28,7 +28,7 @@ msgstr "Nicht verbunden"
 
 #: static/pypilot_control.js:122
 msgid "Connected"
-msgstr "In Verbindung gebracht"
+msgstr "Verbunden"
 
 #: static/pypilot_control.js:153
 msgid "Enter profile name."
@@ -40,7 +40,7 @@ msgstr "Aktuelles Profil entfernen?"
 
 #: static/pypilot_control.js:267
 msgid "The following settings are captured by the current profile"
-msgstr "Die folgenden Einstellungen werden vom aktuellen Profil erfasst"
+msgstr "Die folgenden Einstellungen werden vom aktuellen Profil erfasst.”
 
 #: static/pypilot_control.js:303
 msgid "Disconnected"
@@ -53,15 +53,15 @@ msgstr "Kompass- oder Kreiselfehler!"
 #: static/pypilot_control.js:395 templates/index.html:161
 #: templates/index.html:163
 msgid "Tack"
-msgstr "Heftzwecke"
+msgstr "Wenden"
 
 #: static/pypilot_control.js:398 templates/index.html:162
 msgid "Cancel"
-msgstr "Stornieren"
+msgstr "zurücknehmen"
 
 #: static/pypilot_control.js:468
 msgid "Engaged"
-msgstr "Engagiert"
+msgstr "Eingekuppelt"
 
 #: static/pypilot_control.js:470
 msgid "Disengaged"
@@ -89,15 +89,15 @@ msgstr ""
 
 #: templates/calibrationplot.html:32
 msgid "Connection"
-msgstr "Verbindung"
+msgstr "Verbindung herstellen"
 
 #: templates/index.html:30
 msgid "Control"
-msgstr "Kontrolle"
+msgstr "Steuerung"
 
 #: templates/index.html:33
 msgid "Gain"
-msgstr "Gewinnen"
+msgstr "Verstärkung"
 
 #: templates/index.html:36
 msgid "Calibration"
@@ -105,7 +105,7 @@ msgstr "Kalibrierung"
 
 #: templates/index.html:39
 msgid "Configuration"
-msgstr "Aufbau"
+msgstr "Konfiguration"
 
 #: templates/index.html:42
 msgid "Statistics"
@@ -113,7 +113,7 @@ msgstr "Statistiken"
 
 #: templates/index.html:49
 msgid "Heading"
-msgstr "Überschrift"
+msgstr "Wahrer Kurs"
 
 #: templates/index.html:52
 msgid "Command"
@@ -133,7 +133,7 @@ msgstr "Magnetischer Kurs"
 
 #: templates/index.html:97
 msgid "Pitch"
-msgstr "Tonhöhe"
+msgstr "Neigung"
 
 #: templates/index.html:98
 msgid "Roll"
@@ -141,7 +141,7 @@ msgstr "Rollen"
 
 #: templates/index.html:99 templates/index.html:105
 msgid "Press"
-msgstr "Drücken Sie"
+msgstr "Drücken"
 
 #: templates/index.html:99 templates/index.html:105
 msgid "here"
@@ -174,7 +174,7 @@ msgstr "Kompasskalibrierung sperren"
 
 #: templates/index.html:116
 msgid "calibration plot"
-msgstr "Kalibrierungsplot"
+msgstr "Kalibrierungsdiagramm"
 
 #: templates/index.html:118
 msgid "Rudder Sensor"
@@ -186,11 +186,11 @@ msgstr "zentriert"
 
 #: templates/index.html:121
 msgid "port range"
-msgstr "Hafenbereich"
+msgstr "Backbord Bereich"
 
 #: templates/index.html:122
 msgid "starboard range"
-msgstr "Steuerbordbereich"
+msgstr "Steuerbord Bereich"
 
 #: templates/index.html:123 templates/index.html:146
 msgid "reset"
@@ -210,7 +210,7 @@ msgstr "Anzeige"
 
 #: templates/index.html:134
 msgid "Clear"
-msgstr "Klar"
+msgstr "Löschen"
 
 #: templates/index.html:135
 msgid "Dark"
@@ -227,7 +227,7 @@ msgstr "Amperestunden"
 
 #: templates/index.html:147
 msgid "Voltage"
-msgstr "Stromspannung"
+msgstr "Spannung"
 
 #: templates/index.html:148
 msgid "Controller temperature"
@@ -251,7 +251,7 @@ msgstr "Protokolle"
 
 #: templates/index.html:161
 msgid "Port"
-msgstr "Hafen"
+msgstr "Backbord"
 
 #: templates/index.html:163
 msgid "Starboard"
@@ -271,7 +271,7 @@ msgstr "Webserver-Latenz"
 
 #: templates/wifi.html:4
 msgid "setup"
-msgstr "aufstellen"
+msgstr "Setup"
 
 #: templates/wifi.html:8
 msgid "Wireless Configuration"
@@ -426,7 +426,7 @@ msgstr "zurück"
 #~ msgstr "Anzeige"
 
 #~ msgid "Clear"
-#~ msgstr "Hell"
+#~ msgstr "Löschen"
 
 #~ msgid "Dark"
 #~ msgstr "Dunkel"
@@ -463,7 +463,7 @@ msgstr "zurück"
 #~ msgstr "Webserver-Latenz"
 
 #~ msgid "setup"
-#~ msgstr "einstellen"
+#~ msgstr "Einstellungen"
 
 #~ msgid "Access Point"
 #~ msgstr "Zugangspunkt"
